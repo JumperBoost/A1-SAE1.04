@@ -10,8 +10,15 @@ L'ensemble du sujet est disponible en [pdf](SAE4-2023.pdf).
 
 **Sujet choisi** : Site/Application de mise en relation entre maître du jeu (MJ) et joueurs pour des parties de jeux de rôles (JDR) en présentiel.
 
-# Rendu des livrables
+# Contenu des livrables
 
 ### Livrable 1
 - Fichier [PDF](Livrable%201/S1_SAE104_L1_Franceus_Lopez_Rigaux_Deschanel_Renaud.pdf)
 - Diagramme [E/A (Entité-Association)](Livrable%201/Diagramme%20EA.loo) créé via [Looping](https://www.looping-mcd.fr/)
+
+### Livrable 2
+- Fichier [PDF](Livrable%202/S1_SAE104_L2_Franceus_Lopez_Rigaux_Deschanel_Renaud.pdf)
+- Fichier [SQL](Livrable%202/Creation.sql) de création des tables
+- Fichier [SQL](Livrable%202/Insertion.sql) de remplissage des tables
+- Fichier [SQL](Livrable%202/Suppression.sql) de suppression des tables
+- Fichier [SQL](Livrable%202/Requetes_questions.sql) des requêtes des questions du jeu de données

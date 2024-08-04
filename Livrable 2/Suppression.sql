@@ -1,0 +1,16 @@
+-- SCRIPT SUPPRESSION DE TABLES
+
+DROP TABLE Amis;
+DROP TABLE Achat;
+DROP TABLE Associe;
+DROP TABLE Reserve;
+DROP TABLE Contient;
+DROP TABLE Participe;
+DROP TABLE Personnage;
+DROP TABLE Partie;
+DROP TABLE Utilisateur;
+DROP TABLE Produits;
+DROP TABLE Theme;
+DROP TABLE Employee;
+DROP TABLE Cp;
+DROP TABLE Ville;
