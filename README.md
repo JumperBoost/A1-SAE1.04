@@ -30,3 +30,7 @@ L'ensemble du sujet est disponible en [pdf](SAE4-2023.pdf).
   - Fichiers SQL de [création](Livrable%203/Sujet%20adverse/Creation.sql), d'[insertion](Livrable%203/Sujet%20adverse/Insertion.sql) et de [suppression](Livrable%203/Sujet%20adverse/Suppression.sql) des tables adverse
   - Fichier [SQL](Livrable%203/S1_SAE104_L3_Requetes_Franceus_Lopez_Rigaux_Deschanel_Renaud.sql) des requêtes du livrable 2 adverse
   - Fichier [SQL](Livrable%203/S1_SAE104_L3_Attaque_Franceus_Lopez_Rigaux_Deschanel_Renaud.sql) des tests de contraintes (tests de failles) du jeu de données adverse
+
+### Livrable 4
+- Fichier [PDF](Livrable%204/S1_SAE104_L4_Franceus_Lopez_Rigaux_Deschanel_Renaud.pdf) du livrable, comportant le diagramme E/A à jour
+- Fichiers SQL de [modification](Livrable%204/S1_SAE104_L4_Modification_Franceus_Lopez_Rigaux_Deschanel_Renaud.sql), d'[insertion](Livrable%204/S1_SAE104_L4_Insertion_Franceus_Lopez_Rigaux_Deschanel_Renaud.sql) et d'implémentation de [contraintes](Livrable%204/S1_SAE104_L4_Contraintes_Franceus_Lopez_Rigaux_Deschanel_Renaud.sql) sur les associations des tables
