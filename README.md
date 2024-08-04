@@ -38,3 +38,13 @@ L'ensemble du sujet est disponible en [pdf](SAE4-2023.pdf).
 ### Livrable Économie
 - Fichier [PDF](Livrable%20Économie/SAE104-ECO_Franceus_Lopez_Renaud_Deschanel_Rigaux.pdf) du livrable
 - Fichier [PDF](Livrable%20Économie/SAE104-ECO_Franceus_Lopez_Renaud_Deschanel_Rigaux_CORRIGÉ.pdf) corrigé du livrable
+
+# Membres du groupe
+- Milwenn FRANCEUS--COINTREL
+- Julien RENAUD
+- Héloïse RIGAUX
+- Alexandre DESCHANEL
+- Nathan-Raphaël LOPEZ-ROJAS
+
+___
+_**Remarque** : Ce dépôt ayant été créé après la fin du projet, seul les versions finales des livrables apparaissent._
